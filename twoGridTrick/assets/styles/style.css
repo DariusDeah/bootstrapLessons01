@@ -1,3 +1,8 @@
+* {
+  outline: solid 1px red;
+  border-style: none;
+}
+
 .bg-blue {
   background: #3079AB;
   color: white;
@@ -9,4 +14,5 @@
   box-shadow: 1px 1px 2px #e7e7e7;
   border-radius: 4px;
   margin: 20px 50px;
+
 }
